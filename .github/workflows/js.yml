@@ -1,6 +1,6 @@
 name: JavaScript CI
 on:
-  push::
+  push:
     branches: [main]
 jobs:
   build:
